@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Marvelous Marvin Hagler - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8428debf-e1dd-4573-b0c2-8306ca2ee464","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marvelous_Marvin_Hagler","wgTitle":"Marvelous Marvin Hagler","wgCurRevisionId":1075746966,"wgRevisionId":1075746966,"wgArticleId":84952,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Russian-language sources (ru)","CS1 Ukrainian-language sources (uk)","CS1 maint: url-status","All articles with dead external links","Articles with dead external links from May 2016","Articles with short description","Short description is different from Wikidata",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5a7e5dda-3c4c-4aab-a774-d299d2e7464b","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marvelous_Marvin_Hagler","wgTitle":"Marvelous Marvin Hagler","wgCurRevisionId":1075746966,"wgRevisionId":1075746966,"wgArticleId":84952,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Russian-language sources (ru)","CS1 Ukrainian-language sources (uk)","CS1 maint: url-status","All articles with dead external links","Articles with dead external links from May 2016","Articles with short description","Short description is different from Wikidata",
 "Use American English from December 2013","All Wikipedia articles written in American English","Use mdy dates from March 2021","Articles to be expanded from March 2021","All articles to be expanded","Articles using small message boxes","Commons category link from Wikidata","Pages with login required references or sources","Articles with VIAF identifiers","Articles with WORLDCATID identifiers","Articles with LCCN identifiers","Articles with FAST identifiers","2021 deaths","1954 births","African-American boxers","American expatriates in Italy","American male boxers","Boxers from Massachusetts","Boxers from Newark, New Jersey","International Boxing Federation champions","International Boxing Hall of Fame inductees","The Ring (magazine) champions","Sportspeople from Brockton, Massachusetts","Southpaw boxers","Winners of the United States Championship for amateur boxers","World Boxing Association champions","World Boxing Council champions","World middleweight boxing champions",
 "21st-century African-American people"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Marvelous_Marvin_Hagler","wgRelevantArticleId":84952,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":60000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q560421","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":false,
 "wgGELinkRecommendationsFrontendEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
@@ -13,7 +13,7 @@
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.38.0-wmf.26"/>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -2023,13 +2023,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1334
-Cached time: 20220320011132
+Parsed by mw1395
+Cached time: 20220323222239
 Cache expiry: 86400
 Reduced expiry: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 2.534 seconds
-Real time usage: 3.017 seconds
+CPU time usage: 1.746 seconds
+Real time usage: 2.023 seconds
 Preprocessor visited node count: 30256/1000000
 Post‐expand include size: 272979/2097152 bytes
 Template argument size: 48879/2097152 bytes
@@ -2037,25 +2037,25 @@ Highest expansion depth: 18/100
 Expensive parser function count: 11/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 139774/5000000 bytes
-Lua time usage: 0.941/10.000 seconds
-Lua memory usage: 12510092/52428800 bytes
+Lua time usage: 0.623/10.000 seconds
+Lua memory usage: 12468403/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2415.299      1 -total
- 26.86%  648.668      2 Template:Reflist
- 25.47%  615.249    134 Template:Flagicon
- 14.22%  343.424     28 Template:Cite_web
- 10.59%  255.725      1 Template:Infobox_boxer
- 10.30%  248.798      1 Template:Infobox
-  5.90%  142.616     12 Template:Cite_news
-  5.72%  138.086    113 Template:Country_data_USA
-  4.90%  118.303    134 Template:Flagicon/core
-  4.22%  101.974      2 Template:Navbox
+100.00% 1639.630      1 -total
+ 26.12%  428.339    134 Template:Flagicon
+ 19.07%  312.704      2 Template:Reflist
+ 14.53%  238.182      1 Template:Infobox_boxer
+ 14.22%  233.085      1 Template:Infobox
+ 11.07%  181.511     28 Template:Cite_web
+  6.58%  107.919    113 Template:Country_data_USA
+  5.88%   96.441    134 Template:Flagicon/core
+  5.44%   89.154      2 Template:Navbox
+  5.42%   88.835      1 Template:Ring_magazine_Fighter_of_the_Year
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:84952-0!canonical and timestamp 20220320011129 and revision id 1075746966. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:84952-0!canonical and timestamp 20220323222237 and revision id 1075746966. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Marvelous_Marvin_Hagler&amp;oldid=1075746966">https://en.wikipedia.org/w/index.php?title=Marvelous_Marvin_Hagler&amp;oldid=1075746966</a>"</div></div>
@@ -2107,8 +2107,6 @@ Transclusion expansion time report (%,ms,calls,template)
 		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
 	<label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading">
 		<span class="vector-menu-heading-label">English</span>
-			<span class="vector-menu-checkbox-expanded">expanded</span>
-			<span class="vector-menu-checkbox-collapsed">collapsed</span>
 	</label>
 	<div class="vector-menu-content">
 		
@@ -2143,8 +2141,6 @@ Transclusion expansion time report (%,ms,calls,template)
 		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
 	<label id="p-cactions-label" aria-label="" class="vector-menu-heading">
 		<span class="vector-menu-heading-label">More</span>
-			<span class="vector-menu-checkbox-expanded">expanded</span>
-			<span class="vector-menu-checkbox-collapsed">collapsed</span>
 	</label>
 	<div class="vector-menu-content">
 		
@@ -2290,8 +2286,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 
 </footer>
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.534","walltime":"3.017","ppvisitednodes":{"value":30256,"limit":1000000},"postexpandincludesize":{"value":272979,"limit":2097152},"templateargumentsize":{"value":48879,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":139774,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2415.299      1 -total"," 26.86%  648.668      2 Template:Reflist"," 25.47%  615.249    134 Template:Flagicon"," 14.22%  343.424     28 Template:Cite_web"," 10.59%  255.725      1 Template:Infobox_boxer"," 10.30%  248.798      1 Template:Infobox","  5.90%  142.616     12 Template:Cite_news","  5.72%  138.086    113 Template:Country_data_USA","  4.90%  118.303    134 Template:Flagicon/core","  4.22%  101.974      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.941","limit":"10.000"},"limitreport-memusage":{"value":12510092,"limit":52428800}},"cachereport":{"origin":"mw1334","timestamp":"20220320011132","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.746","walltime":"2.023","ppvisitednodes":{"value":30256,"limit":1000000},"postexpandincludesize":{"value":272979,"limit":2097152},"templateargumentsize":{"value":48879,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":139774,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1639.630      1 -total"," 26.12%  428.339    134 Template:Flagicon"," 19.07%  312.704      2 Template:Reflist"," 14.53%  238.182      1 Template:Infobox_boxer"," 14.22%  233.085      1 Template:Infobox"," 11.07%  181.511     28 Template:Cite_web","  6.58%  107.919    113 Template:Country_data_USA","  5.88%   96.441    134 Template:Flagicon/core","  5.44%   89.154      2 Template:Navbox","  5.42%   88.835      1 Template:Ring_magazine_Fighter_of_the_Year"]},"scribunto":{"limitreport-timeusage":{"value":"0.623","limit":"10.000"},"limitreport-memusage":{"value":12468403,"limit":52428800}},"cachereport":{"origin":"mw1395","timestamp":"20220323222239","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Marvelous Marvin Hagler","url":"https:\/\/en.wikipedia.org\/wiki\/Marvelous_Marvin_Hagler","sameAs":"http:\/\/www.wikidata.org\/entity\/Q560421","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q560421","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-09-13T20:02:44Z","dateModified":"2022-03-07T12:56:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6b\/Hagler_elgrafico.jpg","headline":"American boxer and actor (1954-2021)"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":210,"wgHostname":"mw1367"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":144,"wgHostname":"mw1456"});});</script>
 </body>
 </html>

@@ -1,7 +1,34 @@
 # Thomas Hearns
+---
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Thomas_Hearns_2.jpg/440px-Thomas_Hearns_2.jpg"></p>
+
 
 ---
 ## Professional boxing record
+
+---
+### Sumary
+___67_ fights as a professional__
+- __61__ wins:
+  + __48__ for K.O.
+  + __13__ for desition.
+  + __0__ for disqualification.
+- __5__ losses:
+  + __4__ for K.O.
+  + __1__ for desition.
+  + __0__ for disqualification.
+- __1__ draws:
+
+---
+### Statistics
+- __91.04__ % Winning
+  + 71.64__ % Winning
+- __7.46__ % Losing
+  + __5.97__ % Losing
+- __1.49__ % Drawing
+
+---
+### All career
 |No.| Result| Record| Opponent| Type| Round, time| Date| Age| Location| Notes|
 |---|---|---|---|---|---|---|---|---|---|
 |67|Win|61–5–1|Shannon Landberg|TKO|10 (10), 1:35|Feb 4, 2006|47 years, 109 days|The Palace of Auburn Hills, Auburn Hills, Michigan, U.S.||

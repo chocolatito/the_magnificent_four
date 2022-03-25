@@ -1,7 +1,34 @@
 # Sugar Ray Leonard
+---
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sugar_Ray_Leonard.jpg/440px-Sugar_Ray_Leonard.jpg"></p>
+
 
 ---
 ## Professional boxing record
+
+---
+### Sumary
+___40_ fights as a professional__
+- __36__ wins:
+  + __25__ for K.O.
+  + __11__ for desition.
+  + __0__ for disqualification.
+- __3__ losses:
+  + __1__ for K.O.
+  + __2__ for desition.
+  + __0__ for disqualification.
+- __1__ draws:
+
+---
+### Statistics
+- __90.00__ % Winning
+  + 62.50__ % Winning
+- __7.50__ % Losing
+  + __2.50__ % Losing
+- __2.50__ % Drawing
+
+---
+### All career
 |No.| Result| Record| Opponent| Type| Round, time| Date| Age| Location| Notes|
 |---|---|---|---|---|---|---|---|---|---|
 |40|Loss|36–3–1|Héctor Camacho|TKO|5 (12), 1:08|Mar 1, 1997|40 years, 288 days|Convention Hall, Atlantic City, New Jersey, U.S.|For IBC middleweight title|

@@ -1,7 +1,34 @@
 # Marvelous Marvin Hagler
+---
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Hagler_elgrafico.jpg"></p>
+
 
 ---
 ## Professional boxing record
+
+---
+### Sumary
+___67_ fights as a professional__
+- __62__ wins:
+  + __52__ for K.O.
+  + __9__ for desition.
+  + __1__ for disqualification.
+- __3__ losses:
+  + __0__ for K.O.
+  + __3__ for desition.
+  + __0__ for disqualification.
+- __2__ draws:
+
+---
+### Statistics
+- __92.54__ % Winning
+  + 77.61__ % Winning
+- __4.48__ % Losing
+  + __0.00__ % Losing
+- __2.99__ % Drawing
+
+---
+### All career
 |No.| Result| Record| Opponent| Type| Round, time| Date| Age| Location| Notes|
 |---|---|---|---|---|---|---|---|---|---|
 |67|Loss|62–3–2|Sugar Ray Leonard|SD|12|April 6, 1987|32 years, 318 days|Caesars Palace, Paradise, Nevada, U.S.|Lost WBC and The Ring middleweight titles|

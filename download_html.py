@@ -23,7 +23,5 @@ def download_pages():
             text = ''
 
         content_writer(f'./html_codes/{file_path}', text)
-
-        print('Written to: ', file_path)
         file_paths.append(file_path)
     return file_paths

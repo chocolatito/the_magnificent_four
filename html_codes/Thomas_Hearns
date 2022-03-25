@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Thomas Hearns - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ebd7bf96-60bc-40de-be8d-5162d70b8c80","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thomas_Hearns","wgTitle":"Thomas Hearns","wgCurRevisionId":1070978585,"wgRevisionId":1070978585,"wgArticleId":143674,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","Pages with login required references or sources","Articles with VIAF identifiers","Articles with WORLDCATID identifiers","Articles with GND identifiers","1958 births",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"54c9d31a-73fc-4f22-8a2c-dd17805b1b2f","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thomas_Hearns","wgTitle":"Thomas Hearns","wgCurRevisionId":1070978585,"wgRevisionId":1070978585,"wgArticleId":143674,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","Pages with login required references or sources","Articles with VIAF identifiers","Articles with WORLDCATID identifiers","Articles with GND identifiers","1958 births",
 "Living people","African-American boxers","Cruiserweight boxers","World Boxing Association champions","World Boxing Council champions","World Boxing Organization champions","International Boxing Organization champions","Winners of the United States Championship for amateur boxers","International Boxing Hall of Fame inductees","American male boxers","The Ring (magazine) champions","World welterweight boxing champions","World light-middleweight boxing champions","World middleweight boxing champions","World super-middleweight boxing champions","World light-heavyweight boxing champions","National Golden Gloves champions","Light-welterweight boxers","Boxers from Tennessee","Detroit Police Department officers","21st-century African-American people","20th-century African-American sportspeople"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Thomas_Hearns","wgRelevantArticleId":143674,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,
 "wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q560409","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":false,"wgGELinkRecommendationsFrontendEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
 "skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
@@ -1905,13 +1905,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1374
-Cached time: 20220322195015
+Parsed by mw1322
+Cached time: 20220323222657
 Cache expiry: 1814400
 Reduced expiry: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.615 seconds
-Real time usage: 1.828 seconds
+CPU time usage: 1.752 seconds
+Real time usage: 2.015 seconds
 Preprocessor visited node count: 29094/1000000
 Post‐expand include size: 221472/2097152 bytes
 Template argument size: 43603/2097152 bytes
@@ -1919,25 +1919,25 @@ Highest expansion depth: 13/100
 Expensive parser function count: 9/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 72439/5000000 bytes
-Lua time usage: 0.536/10.000 seconds
+Lua time usage: 0.550/10.000 seconds
 Lua memory usage: 10679570/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1407.376      1 -total
- 36.35%  511.582    134 Template:Flagicon
- 19.11%  268.977      1 Template:Reflist
- 12.32%  173.451      1 Template:Infobox_boxer
- 11.92%  167.773      1 Template:Infobox
- 10.43%  146.818      5 Template:Cite_web
-  7.53%  105.985    107 Template:Country_data_USA
-  6.65%   93.660    134 Template:Flagicon/core
-  5.26%   73.994     15 Template:Cite_news
-  5.09%   71.658      1 Template:Short_description
+100.00% 1545.397      1 -total
+ 34.37%  531.158    134 Template:Flagicon
+ 17.88%  276.295      1 Template:Reflist
+ 12.43%  192.060      1 Template:Infobox_boxer
+ 12.03%  185.845      1 Template:Infobox
+  8.34%  128.821      5 Template:Cite_web
+  7.10%  109.748    107 Template:Country_data_USA
+  6.05%   93.457    134 Template:Flagicon/core
+  5.36%   82.796     15 Template:Cite_news
+  4.94%   76.374      1 Template:Short_description
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:143674-0!canonical and timestamp 20220322195013 and revision id 1070978585. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:143674-0!canonical and timestamp 20220323222655 and revision id 1070978585. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thomas_Hearns&amp;oldid=1070978585">https://en.wikipedia.org/w/index.php?title=Thomas_Hearns&amp;oldid=1070978585</a>"</div></div>
@@ -2168,8 +2168,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 
 </footer>
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.615","walltime":"1.828","ppvisitednodes":{"value":29094,"limit":1000000},"postexpandincludesize":{"value":221472,"limit":2097152},"templateargumentsize":{"value":43603,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":72439,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1407.376      1 -total"," 36.35%  511.582    134 Template:Flagicon"," 19.11%  268.977      1 Template:Reflist"," 12.32%  173.451      1 Template:Infobox_boxer"," 11.92%  167.773      1 Template:Infobox"," 10.43%  146.818      5 Template:Cite_web","  7.53%  105.985    107 Template:Country_data_USA","  6.65%   93.660    134 Template:Flagicon/core","  5.26%   73.994     15 Template:Cite_news","  5.09%   71.658      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.536","limit":"10.000"},"limitreport-memusage":{"value":10679570,"limit":52428800}},"cachereport":{"origin":"mw1374","timestamp":"20220322195015","ttl":1814400,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.752","walltime":"2.015","ppvisitednodes":{"value":29094,"limit":1000000},"postexpandincludesize":{"value":221472,"limit":2097152},"templateargumentsize":{"value":43603,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":72439,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1545.397      1 -total"," 34.37%  531.158    134 Template:Flagicon"," 17.88%  276.295      1 Template:Reflist"," 12.43%  192.060      1 Template:Infobox_boxer"," 12.03%  185.845      1 Template:Infobox","  8.34%  128.821      5 Template:Cite_web","  7.10%  109.748    107 Template:Country_data_USA","  6.05%   93.457    134 Template:Flagicon/core","  5.36%   82.796     15 Template:Cite_news","  4.94%   76.374      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.550","limit":"10.000"},"limitreport-memusage":{"value":10679570,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20220323222657","ttl":1814400,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Thomas Hearns","url":"https:\/\/en.wikipedia.org\/wiki\/Thomas_Hearns","sameAs":"http:\/\/www.wikidata.org\/entity\/Q560409","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q560409","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-03T17:53:43Z","dateModified":"2022-02-10T07:30:52Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/18\/Thomas_Hearns_2.jpg","headline":"American boxer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":168,"wgHostname":"mw1391"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":131,"wgHostname":"mw1442"});});</script>
 </body>
 </html>
