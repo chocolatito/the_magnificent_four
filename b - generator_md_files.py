@@ -142,6 +142,7 @@ ___{sumary_dict['total_fights']}_ fights as a professional__
 
 # ________________________________________________________________________
 borns = {
+    'Roberto_Dur%C3%A1n':'Jun 16, 1951',
     'Sugar_Ray_Leonard': 'May 17, 1956',
     'Marvelous_Marvin_Hagler': 'May 23, 1954',
     'Thomas_Hearns': 'Oct 18, 1958'
