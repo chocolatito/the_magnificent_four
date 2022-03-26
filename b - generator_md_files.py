@@ -75,13 +75,16 @@ def get_sumary_dict(core_path):
 def generate_md(core_path, born_at, src_image):
     sumary_dict = get_sumary_dict(f'{core_path}_wikitable_collapsible')
     rows = get_rows(f'{core_path}_wikitable')
-    #
-    rows[0].insert(7, 'Age')
+    if core_path != 'Roberto_Dur%C3%A1n':
+        rows[0].insert(7, 'Age')
+        for x in range(1, len(rows), 1):
+            fight_at = rows[x][6]
+            rows[x].insert(7, get_years_and_days(born_at, fight_at))
     thead = f"|{'| '.join([item for item in rows[0]])}|"
     tbody_list = []
     for x in range(1, len(rows), 1):
-        fight_at = rows[x][6]
-        rows[x].insert(7, get_years_and_days(born_at, fight_at))
+        # fight_at = rows[x][6]
+        # rows[x].insert(7, get_years_and_days(born_at, fight_at))
         tbody_list.append(f"|{'|'.join([item for item in rows[x]])}|")
 
     BLANKSPACE = ' '
