@@ -22,9 +22,9 @@ ___67_ fights as a professional__
 ---
 ### Statistics
 - __91.04__ % Winning
-  + 71.64__ % Winning
+  + 71.64__ % Winning by K.O.
 - __7.46__ % Losing
-  + __5.97__ % Losing
+  + __5.97__ % Losing by K.O.
 - __1.49__ % Drawing
 
 ---

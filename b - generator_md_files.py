@@ -2,6 +2,7 @@ import ast
 import csv
 import re
 import datetime as dt
+from urllib.parse import unquote
 from dateutil.relativedelta import relativedelta
 # ___________________________________
 from open_utils import content_reader
@@ -83,8 +84,6 @@ def generate_md(core_path, born_at, src_image):
     thead = f"|{'| '.join([item for item in rows[0]])}|"
     tbody_list = []
     for x in range(1, len(rows), 1):
-        # fight_at = rows[x][6]
-        # rows[x].insert(7, get_years_and_days(born_at, fight_at))
         tbody_list.append(f"|{'|'.join([item for item in rows[x]])}|")
 
     BLANKSPACE = ' '
@@ -125,14 +124,14 @@ ___{sumary_dict['total_fights']}_ fights as a professional__
 ---
 ### Statistics
 - __{percent_of_wins}__ % Winning
-  + {percent_of_wins_ko}__ % Winning
+  + {percent_of_wins_ko}__ % Winning by K.O.
 - __{percent_of_losess}__ % Losing
-  + __{percent_of_losess_ko}__ % Losing
+  + __{percent_of_losess_ko}__ % Losing by K.O.
 - __{percent_of_draws}__ % Drawing
 """
 
     with open(f'./markdown_files/{core_path}.md', 'w') as fh:
-        fh.write(f'# {core_path.replace(UNDERSCORE,BLANKSPACE)}')
+        fh.write(f'# {unquote(core_path.replace(UNDERSCORE,BLANKSPACE))}')
         fh.write(image)
         fh.write(f'{subtitle}')
         fh.write(f'{sumary}\n')

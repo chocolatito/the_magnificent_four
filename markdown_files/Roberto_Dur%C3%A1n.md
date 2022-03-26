@@ -1,4 +1,4 @@
-# Roberto Dur%C3%A1n
+# Roberto Durán
 ---
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Roberto-Duran-1994_%28cropped%29.png/440px-Roberto-Duran-1994_%28cropped%29.png"></p>
 
@@ -22,9 +22,9 @@ ___119_ fights as a professional__
 ---
 ### Statistics
 - __86.55__ % Winning
-  + 58.82__ % Winning
+  + 58.82__ % Winning by K.O.
 - __13.45__ % Losing
-  + __3.36__ % Losing
+  + __3.36__ % Losing by K.O.
 - __0.00__ % Drawing
 
 ---
